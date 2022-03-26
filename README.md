@@ -17,7 +17,7 @@ Else when the if condition,is not met that is the length of string and length of
 
 In the second function(encrypt text),we will assign variable X, the ordered string and ordered key iterations which go through 26 rows of alphabet A to z. The variable X will keep incrementing by 1,if say order starts from A.The value is then allocated to encrypted text.
 
-In the third function(decrypt text), what had been encrypted, will go through the reverse process of encryption so as to return to the source or original text.
+In the third function(decrypt text),what had been encrypted, will go through the reverse process of encryption so as to return to the source or original text.
 
 
 **GETTING STARTED:
